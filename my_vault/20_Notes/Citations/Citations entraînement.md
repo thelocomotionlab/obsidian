@@ -1,0 +1,3 @@
+"Les lipides brûlent sur le feu des glucides", G. Millet
+
+"Le fait que mon organisme soit adapté aux graisses m'aide à ne pas surcharger mon estomac pendant la course. Je continue à manger pendant la course, mais pas autant, surtout sous forme de sucres rapides (boissons gazeuses, gels, etc.). En fait, la course est le seul moment où je consomme principalement des sucres.", I. Verys (vainqueur Barkley 2024)

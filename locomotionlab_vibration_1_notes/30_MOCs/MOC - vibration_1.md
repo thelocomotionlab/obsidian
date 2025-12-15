@@ -1,0 +1,12 @@
+---
+type: moc
+---
+- [[Paradigme oscillatoire en biologie]]
+- [[Mécanotransduction - définition]]
+- [[Humming - définition]]
+- [[Humming augmente NO nasal x15]]
+- [[Stimulation vagale par chant OM]]
+- [[Système glymphatique - définition]]
+- [[WBV - définition]]
+- [[TRE - définition]]
+- [[Fascia - piézoélectricité du collagène]]
