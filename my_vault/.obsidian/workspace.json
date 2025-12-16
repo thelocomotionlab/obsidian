@@ -175,11 +175,18 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9e1abacc2e24d9c4",
   "lastOpenFiles": [
+    "20_Notes/Vibration/Vibration/Système Glymphatique et Son.md",
+    "20_Notes/Vibration/Vibration/Stimulation Vagale Acoustique.md",
+    "20_Notes/Vibration/Vibration/Paradigme Oscillatoire en Biologie.md",
+    "20_Notes/Vibration/Vibration/Bourdonnement et Oxyde Nitrique.md",
+    "20_Notes/Vibration/Vibration",
+    "20_Notes/Vibration",
     "20_Notes/Sinus paranasaux - NO et iNOS.md",
     "20_Notes/Exposition au froid/CSP.md",
     "20_Notes/TVR - réflexe tonique vibratoire.md",
@@ -206,15 +213,9 @@
     "20_Notes/Modèle 2 compartiments nez-sinus.md",
     "20_Notes/Mécanotransduction - définition.md",
     "20_Notes/Fascia - piézoélectricité du collagène.md",
-    "20_Notes/ESWT - ondes de choc extracorporelles.md",
-    "20_Notes/Cinétique récupération NO sinusien.md",
-    "20_Notes/Objectif du rapport vibration_1.md",
-    "20_Notes/Paradigme oscillatoire en biologie.md",
     "90_Attachments/gemini_vibration_2.pdf",
     "90_Attachments/gemini_vibration_1.pdf",
     "Sans titre.base",
-    "Pleine conscience",
-    "Nutrition",
-    "Respiration"
+    "Pleine conscience"
   ]
 }
