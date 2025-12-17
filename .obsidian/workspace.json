@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "373a463e44c060e5",
+        "id": "9508dbf4d940498e",
         "type": "tabs",
         "children": [
           {
-            "id": "5711b18d57126215",
+            "id": "935af425895503ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Reference/Citations/Citations philosophiques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Citations philosophiques"
-            }
-          },
-          {
-            "id": "69c706e909d07884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Reference/note_couches_fondamentales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "note_couches_fondamentales"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,33 +176,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "69c706e909d07884",
+  "active": "935af425895503ed",
   "lastOpenFiles": [
+    "20_Notes/Physique/Types de potentiels.md",
+    "20_Notes/Physique/Potentiel généralisé.md",
+    "20_Notes/Physique/Potentiel effectif.md",
+    "20_Notes/Physique/Potentiel thermodynamique.md",
+    "20_Notes/Physique/Potentiel chimique.md",
+    "20_Notes/Physique/Potentiel électrique.md",
+    "20_Notes/Physique/Potentiel élastique.md",
+    "20_Notes/Physique/Potentiel gravitationnel.md",
+    "20_Notes/Physique/Lagrangien.md",
+    "20_Notes/Physique/Potentiel.md",
+    "20_Notes/Physique/Invariance.md",
+    "20_Notes/Physique/Irreversibilité.md",
+    "20_Notes/Physique/Moment cinétique.md",
+    "20_Notes/Physique/Quantité de mouvement.md",
+    "20_Notes/Physique/Système.md",
+    "20_Notes/Thermodynamique/Enthalpie.md",
+    "20_Notes/Physique/Symétrie.md",
+    "20_Notes/Thermodynamique/Chaleur.md",
+    "20_Notes/Physique/Théorème de Noether.md",
+    "20_Notes/Physique/Lois de conservation.md",
+    "20_Notes/Physique/Gradient.md",
+    "20_Notes/Physique/Puissance.md",
+    "20_Notes/Physique/Flux.md",
+    "20_Notes/Physique/Travail.md",
+    "20_Notes/Thermodynamique/Entropie.md",
+    "20_Notes/Thermodynamique/Rhotalpie.md",
+    "20_Notes/Physique",
+    "20_Notes/Modèles/Impédance mécanique",
+    "20_Notes/Modèles",
+    "20_Notes/Physiologie",
+    "20_Notes/Biologie",
+    "20_Notes/Biophysique",
+    "20_Notes/Anatomie/Épithélium",
     "90_Attachments/pdf/gemini_vibration_2.pdf",
-    "05_Reference/note_nomenclature.md",
-    "05_Reference/note_couches_fondamentales.md",
-    "05_Reference/Citations/Citations philosophiques.md",
     "05_Reference/Citations",
-    "05_Reference",
-    "10_Sources/Sans titre",
-    "05_Reference/Citations/Citations entraînement.md",
-    "20_Notes/Trail/Mes pourquois en trail.md",
-    "20_Notes/Vibration/Vibration/Bourdonnement et Oxyde Nitrique.md",
-    "20_Notes/Respiration/kapalabati.md",
-    "20_Notes/Exposition au froid/CSP.md",
-    "20_Notes/Thermodynamique/Sans titre.md",
-    "90_Attachments/pdf",
-    "Cœur.md",
-    "20_Notes/Anatomie/Myocarde.md",
-    "20_Notes/Thermodynamique",
-    "20_Notes/Mécanique des fluides",
-    "10_Sources/Rapport - Résonance Biologique.md",
-    "20_Notes/Anatomie",
-    "90_Attachments/pdf/gemini_2025_resonance_biologique.pdf",
-    "gemini_2025_résonance_biologique.pdf.md",
-    "90_Attachments/gemini_2025_résonance_biologique.pdf",
-    "gemini_résonance_biologique.pdf.md",
-    "00_Inbox/gemini_vibration_2.pdf",
-    "bibliography.md"
+    "05_Reference"
   ]
 }
