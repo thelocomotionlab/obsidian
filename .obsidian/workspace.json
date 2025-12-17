@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9508dbf4d940498e",
+        "id": "cbc74419cb765ef5",
         "type": "tabs",
         "children": [
           {
-            "id": "935af425895503ed",
+            "id": "e55a91994eeb1475",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,8 +176,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "935af425895503ed",
+  "active": "e55a91994eeb1475",
   "lastOpenFiles": [
+    "20_Notes/Expériences/Divers",
+    "20_Notes/Expériences/Froid",
+    "20_Notes/Expériences/Pratiques corporelles",
+    "20_Notes/Expériences/Trail",
+    "20_Notes/Expériences",
+    "99_Templates/experience.md",
+    "20_Notes/Pratiques corporelles/Chant de gorge.md",
+    "20_Notes/Pratiques corporelles/Humming.md",
+    "20_Notes/Pratiques corporelles",
+    "20_Notes/Physique/Couplage air-tissus.md",
+    "20_Notes/Biophysique/Conduction osseuse.md",
     "20_Notes/Physique/Types de potentiels.md",
     "20_Notes/Physique/Potentiel généralisé.md",
     "20_Notes/Physique/Potentiel effectif.md",
@@ -198,21 +209,10 @@
     "20_Notes/Thermodynamique/Chaleur.md",
     "20_Notes/Physique/Théorème de Noether.md",
     "20_Notes/Physique/Lois de conservation.md",
-    "20_Notes/Physique/Gradient.md",
-    "20_Notes/Physique/Puissance.md",
-    "20_Notes/Physique/Flux.md",
-    "20_Notes/Physique/Travail.md",
-    "20_Notes/Thermodynamique/Entropie.md",
-    "20_Notes/Thermodynamique/Rhotalpie.md",
     "20_Notes/Physique",
     "20_Notes/Modèles/Impédance mécanique",
     "20_Notes/Modèles",
     "20_Notes/Physiologie",
-    "20_Notes/Biologie",
-    "20_Notes/Biophysique",
-    "20_Notes/Anatomie/Épithélium",
-    "90_Attachments/pdf/gemini_vibration_2.pdf",
-    "05_Reference/Citations",
-    "05_Reference"
+    "20_Notes/Biologie"
   ]
 }
