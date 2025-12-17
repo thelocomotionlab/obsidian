@@ -1,3 +1,7 @@
+---
+type: reference
+---
+
 "Nul ne peut affirmer sans se contredire qu'il est absolument vrai que la vérité est relative", É. Klein
 
 "N'écoute pas les on dit, ceux qui jactent n'ont pas vu la vie au travers de ton monde", Yamê

@@ -1,6 +1,5 @@
 ---
 type: reference
-category: ideas
 ---
 
 # Idées d’articles – Locomotion Lab

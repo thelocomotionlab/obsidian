@@ -34,6 +34,7 @@ direct avec le sang ou la lymphe.
 - Acteur central de l’adaptation vasculaire
 
 ## Liens
+* [[Épithélium]]
 - [[Flux sanguin]]
 - [[Mécanotransduction]]
 - [[Vasodilatation]]
