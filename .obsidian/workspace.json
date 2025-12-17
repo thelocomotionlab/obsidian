@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "692b174ad0eaddbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "373a463e44c060e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5711b18d57126215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Reference/Citations/Citations philosophiques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Citations philosophiques"
+            }
+          },
+          {
+            "id": "69c706e909d07884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Reference/note_couches_fondamentales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "note_couches_fondamentales"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c7ea6a2497340b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af900260435d0bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e3bc674c242d6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "a2f3919aa39b4ae1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "012d43c17385ce0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63f9e4c15d27cd50",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d35455bcbfb415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc9a76992b03b6ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "574796788c7404d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "f1e4751f6e141189",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "fe1c8f2aff249da5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "66fbb391f22d8ad9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "69c706e909d07884",
+  "lastOpenFiles": [
+    "90_Attachments/pdf/gemini_vibration_2.pdf",
+    "05_Reference/note_nomenclature.md",
+    "05_Reference/note_couches_fondamentales.md",
+    "05_Reference/Citations/Citations philosophiques.md",
+    "05_Reference/Citations",
+    "05_Reference",
+    "10_Sources/Sans titre",
+    "05_Reference/Citations/Citations entraînement.md",
+    "20_Notes/Trail/Mes pourquois en trail.md",
+    "20_Notes/Vibration/Vibration/Bourdonnement et Oxyde Nitrique.md",
+    "20_Notes/Respiration/kapalabati.md",
+    "20_Notes/Exposition au froid/CSP.md",
+    "20_Notes/Thermodynamique/Sans titre.md",
+    "90_Attachments/pdf",
+    "Cœur.md",
+    "20_Notes/Anatomie/Myocarde.md",
+    "20_Notes/Thermodynamique",
+    "20_Notes/Mécanique des fluides",
+    "10_Sources/Rapport - Résonance Biologique.md",
+    "20_Notes/Anatomie",
+    "90_Attachments/pdf/gemini_2025_resonance_biologique.pdf",
+    "gemini_2025_résonance_biologique.pdf.md",
+    "90_Attachments/gemini_2025_résonance_biologique.pdf",
+    "gemini_résonance_biologique.pdf.md",
+    "00_Inbox/gemini_vibration_2.pdf",
+    "bibliography.md"
+  ]
+}
