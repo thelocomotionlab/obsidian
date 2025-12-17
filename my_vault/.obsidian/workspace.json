@@ -184,8 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e1abacc2e24d9c4",
+  "active": "436cc87808ffe42b",
   "lastOpenFiles": [
+    "99_Templates/moc.md",
+    "99_Templates/data.md",
+    "99_Templates/mechanism.md",
+    "99_Templates/concept.md",
+    "99_Templates/source.md",
     "20_Notes/Vibration/Vibration/Stimulation Vagale Acoustique.md",
     "00_Inbox/gemini_vibration_2.pdf",
     "00_Inbox/Vibrations Acoustiques et Tissus Conjonctifs.pdf",
@@ -216,10 +221,6 @@
     "20_Notes/VFC - variabilité de fréquence cardiaque.md",
     "20_Notes/TRE - définition.md",
     "20_Notes/Système glymphatique - définition.md",
-    "20_Notes/Stimulation vagale par chant OM.md",
-    "20_Notes/Stimulation 40 Hz - oscillations gamma.md",
-    "20_Notes/NO inhalé - amélioration VQ.md",
-    "20_Notes/Modèle 2 compartiments nez-sinus.md",
-    "20_Notes/Mécanotransduction - définition.md"
+    "20_Notes/Stimulation vagale par chant OM.md"
   ]
 }
