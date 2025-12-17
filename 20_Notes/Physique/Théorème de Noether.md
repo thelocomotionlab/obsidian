@@ -1,79 +1,82 @@
 ---
 type: concept
-domain: physique
+domain: physique théorique
 ---
 
-## Énoncé général
-Le théorème de Noether établit une correspondance
-fondamentale entre les symétries continues d’un système
-physique et les lois de conservation associées.
+## Définition
+Le théorème de Noether établit une correspondance fondamentale
+entre les symétries continues d’un système physique
+et les lois de conservation associées.
 
-Il constitue l’un des résultats les plus profonds
-de la physique théorique.
+Il constitue un pilier conceptuel
+de la physique moderne.
 
 ---
 
-## Formulation conceptuelle
-À toute symétrie continue de l’action
+## Origine historique
+Le théorème a été formulé par
+**Emmy Noether** en 1918.
+
+Référence fondatrice :
+Noether, E. (1918).
+*Invariante Variationsprobleme.*
+Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen,
+Mathematisch-Physikalische Klasse, 235–257.
+
+---
+
+## Énoncé conceptuel
+À toute symétrie continue d’un système
 correspond une grandeur conservée.
 
----
-
-## Cadre formel
-On considère une action :
-$$
-\mathcal{S} = \int \mathcal{L} \, dt
-$$
-
-- $\mathcal{S}$ : action  
-- $\mathcal{L}$ : lagrangien du système  
-- $t$ : temps  
-
-Si l’action est invariante sous une transformation continue,
-alors une quantité est conservée.
+Cette relation est indépendante
+de la nature spécifique du système.
 
 ---
 
 ## Exemples fondamentaux
+- Invariance par translation temporelle → conservation de l’énergie
+- Invariance par translation spatiale → conservation de la quantité de mouvement
+- Invariance par rotation → conservation du moment cinétique
 
-### Invariance temporelle
-- Symétrie : invariance par translation dans le temps
-- Quantité conservée : énergie
+---
 
-### Invariance spatiale
-- Symétrie : invariance par translation dans l’espace
-- Quantité conservée : quantité de mouvement
-
-### Invariance rotationnelle
-- Symétrie : invariance par rotation
-- Quantité conservée : moment cinétique
+## Formulation abstraite
+Le théorème s’applique aux systèmes
+décrits par un principe variationnel,
+via un lagrangien invariant sous un groupe de transformations continues.
 
 ---
 
 ## Sens physique profond
-Les lois de conservation ne sont pas des postulats,
-mais les conséquences directes des symétries
-fondamentales de l’espace-temps.
+Les lois de conservation ne sont pas des règles arbitraires,
+mais l’expression directe
+des symétries du réel.
+
+Le théorème de Noether révèle
+la structure profonde des lois physiques.
 
 ---
 
-## Importance transdisciplinaire
-Le théorème de Noether structure :
-- la mécanique classique
-- la relativité
-- la physique quantique
-- la théorie des champs
-- l’analyse des systèmes complexes (au sens formel)
+## Portée transdisciplinaire
+- Mécanique classique
+- Relativité
+- Physique quantique
+- Théorie des champs
+- Dynamique des systèmes
 
 ---
 
-## Concepts associés
+## Liens conceptuels
 - [[Symétrie]]
-- [[Lois de conservation]]
+- [[Invariance]]
+- [[Lagrangien]]
 - [[Énergie]]
 - [[Quantité de mouvement]]
 - [[Moment cinétique]]
-- [[Invariance]]
+- [[Lois de conservation]]
+- [[Système]]
 
 ## Sources
-- @
+- Noether, E. (1918)
+- Lanczos, C. *The Variational Principles of Mechanics*
