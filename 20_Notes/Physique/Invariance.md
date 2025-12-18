@@ -1,42 +1,42 @@
 ---
 type: concept
-domain: physique
+domain: mathématiques / physique
 ---
 
-## Définition générale
-L’invariance désigne le fait qu’une propriété,
-une loi ou une grandeur reste inchangée
-sous une transformation donnée.
+# Invariance
+
+## Définition
+L’invariance désigne la propriété d’une grandeur, d’une loi ou d’une structure à rester inchangée lorsqu'elle subit une transformation spécifique.
 
 ---
 
 ## Définition formelle
-Une grandeur $G$ est invariante sous $T$ si :
+Une grandeur $G$ est invariante sous une transformation $T$ si :
 $$
 G(T(x)) = G(x)
 $$
 
-- $G$ : grandeur  
-- $T$ : transformation  
-- $x$ : état ou variable  
+- $G$ : grandeur ou fonction
+- $T$ : opérateur de transformation (translation, rotation, jauge)
+- $x$ : état ou coordonnée du système
 
 ---
 
-## Types d’invariances
-- Temporelle
-- Spatiale
-- Rotationnelle
-- De jauge
+## Types d'invariances physiques
+- temporelle : les lois ne changent pas d'un instant à l'autre.
+- spatiale : les lois sont identiques partout dans l'univers (homogénéité).
+- rotationnelle : les lois ne dépendent pas de l'orientation (isotropie).
 
 ---
 
 ## Sens physique profond
-Les invariances révèlent
-les structures fondamentales du réel.
+L'invariance est le socle de l'objectivité scientifique. 
+
+Elle permet de définir ce qui est "réel" par opposition à ce qui dépend du point de vue de l'observateur. Si une loi est invariante, elle révèle une structure géométrique profonde de l'univers.
 
 ---
 
-## Concepts associés
+## Liens conceptuels
 - [[Symétrie]]
 - [[Lois de conservation]]
 - [[Théorème de Noether]]

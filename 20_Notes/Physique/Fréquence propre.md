@@ -1,50 +1,47 @@
 ---
 type: concept
 domain: modélisation physique
-layer: model
 ---
 
+# Fréquence propre
+
 ## Définition
-Fréquence naturelle à laquelle un système oscillant
-tend à vibrer spontanément en l’absence d’excitation
-extérieure.
+Fréquence naturelle à laquelle un [[Système]] oscillant tend à vibrer spontanément lorsqu'il est écarté de sa position d'équilibre et laissé libre.
 
-## Origine physique
-La fréquence propre dépend des propriétés internes
-du système :
-- masse
-- rigidité
-- géométrie
-- conditions aux limites
+Elle représente la "note" caractéristique d'un objet physique.
 
-## Expression générale
-Pour un oscillateur simple :
-\[
-\omega_0 = \sqrt{\frac{k}{m}}
-\]
+---
 
-(où $k$ est la raideur et $m$ la masse)
+## Expression mathématique
+Pour un [[Oscillateur harmonique]] simple (système masse-ressort) :
+$$
+\omega_0 = \sqrt{\frac{k}{m}} \quad \text{ou} \quad f_0 = \frac{1}{2\pi} \sqrt{\frac{k}{m}}
+$$
 
-## Sens physique
-Chaque structure possède une ou plusieurs
-fréquences propres, constituant sa signature dynamique.
+- $k$ : raideur du système (stiffness).
+- $m$ : masse ou inertie du système.
+
+---
+
+## Sens physique profond
+La fréquence propre est la **signature dynamique** de la matière. 
+
+Elle est le résultat du compromis entre l'[[Inertie]] (qui veut maintenir le mouvement) et la force de rappel (qui veut ramener à l'équilibre). Elle définit la sélectivité d'un système : celui-ci absorbera et amplifiera préférentiellement l'énergie si l'excitation externe correspond à cette valeur propre.
+
+---
 
 ## Importance biologique
-- Les tissus ont des fréquences propres spécifiques
-- La réponse vibratoire dépend de l’accord
-  excitation ↔ structure
-- Fondement de la sélectivité adaptative
+- tissus : les os, muscles et fascias possèdent des fréquences propres spécifiques déterminant leur réponse aux impacts.
+- résonance : la compréhension des fréquences propres permet d'éviter les traumatismes ou d'optimiser le transfert d'énergie (ex: [[Conduction osseuse]]).
+- acoustique : les [[Sinus paranasaux]] agissent comme des résonateurs avec une fréquence propre définie par leur géométrie.
 
-## Contextes
-- [[Vibration mécanique]]
-- [[Vibration acoustique]]
+---
+
+## Liens conceptuels
+- [[Oscillateur harmonique]]
 - [[Résonance]]
 - [[Impédance mécanique]]
-
-## Liens
-- [[Oscillateur harmonique]]
-- [[Tissu conjonctif]]
-- [[Adaptation]]
+- [[Vibration mécanique]]
 
 ## Sources
 - @

@@ -3,42 +3,56 @@ type: concept
 domain: physique
 ---
 
-## Définition générale
-Le moment cinétique est une grandeur vectorielle
-associée au mouvement de rotation d’un système.
+# Moment cinétique
+
+## Définition
+Le moment cinétique est une grandeur vectorielle décrivant l’état de rotation d’un [[Système]] par rapport à un point ou un axe de référence.
+
+Il quantifie la "quantité de mouvement rotatif".
 
 ---
 
 ## Définition mathématique
+Pour une particule ponctuelle :
 $$
-\vec{L} = \vec{r} \times \vec{p}
+\mathbf{L} = \mathbf{r} \times \mathbf{p}
 $$
 
-- $\vec{L}$ : moment cinétique  
-- $\vec{r}$ : vecteur position  
-- $\vec{p}$ : quantité de mouvement  
+- $\mathbf{L}$ : moment cinétique
+- $\mathbf{r}$ : vecteur position par rapport au point de référence
+- $\mathbf{p}$ : [[Quantité de mouvement]] ($\mathbf{p} = m\mathbf{v}$)
 
 ---
 
 ## Loi de conservation
-En l’absence de moment de force externe :
+Dans un système isolé, ou si le moment des forces externes est nul :
 $$
-\frac{d\vec{L}}{dt} = 0
+\frac{d\mathbf{L}}{dt} = \mathbf{0}
 $$
+
+Cette conservation est le fondement de la stabilité des orbites et des mouvements de rotation complexes (ex : pirouettes, balistiques).
 
 ---
 
 ## Sens physique profond
-Le moment cinétique exprime
-l’invariance rotationnelle du système.
+Le moment cinétique est la manifestation de l'**invariance rotationnelle** de l'espace.
+
+Selon le [[Théorème de Noether]], la conservation du moment cinétique découle de l'isotropie de l'espace (le fait que les lois de la physique ne dépendent pas de l'orientation). Il représente l'inertie du système face à un changement de son état de rotation.
 
 ---
 
-## Concepts associés
+## Portée transdisciplinaire
+- locomotion : gestion du moment cinétique segmentaire pour l'équilibre et la propulsion.
+- biophysique : moment cinétique des molécules et des électrons (spin).
+- astrophysique : formation des disques d'accrétion.
+
+---
+
+## Liens conceptuels
 - [[Quantité de mouvement]]
 - [[Symétrie]]
 - [[Théorème de Noether]]
-- [[Rotation]]
+- [[Système]]
 
 ## Sources
 - @

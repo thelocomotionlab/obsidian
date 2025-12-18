@@ -1,57 +1,44 @@
 ---
 type: concept
-domain: biophysique
+domain: biophysique / acoustique
 ---
 
+# Conduction osseuse
+
 ## Définition
-La conduction osseuse est un mode de transmission
-des vibrations mécaniques dans lequel les ondes
-se propagent à travers les structures osseuses
-et les tissus adjacents, sans passer principalement
-par l’air.
+Mode de transmission des vibrations mécaniques dans lequel les ondes se propagent directement à travers les structures osseuses et les tissus adjacents, contournant le conduit auditif externe.
 
 ---
 
 ## Principe physique
-Une vibration mécanique appliquée au crâne
-ou aux structures osseuses se propage :
-- dans l’os
-- vers les tissus mous
-- jusqu’aux structures sensorielles ou mécaniques
+Une vibration appliquée à l'os (ex: crâne, mâchoire) se propage par ondes de compression et de cisaillement dans la matrice minérale. 
 
-Ce mode de propagation dépend fortement
-des propriétés mécaniques des tissus.
+Cette propagation dépend de :
+- la densité osseuse : détermine la célérité de l'onde.
+- l'adaptation d'[[Interface]] : efficacité du transfert entre la source et l'os.
+- la géométrie des cavités : influence les phénomènes de [[Résonance]] interne.
 
 ---
 
-## Milieux impliqués
-- Os
-- Tissus conjonctifs
-- Liquides internes
-- Structures sensorielles
+## Sens physique profond
+La conduction osseuse est une **immersion vibratoire**. 
+
+Contrairement à l'air qui est un milieu dissipatif et léger, l'os est un milieu dense qui permet une transmission à faible perte pour certaines fréquences. Elle transforme le squelette en une antenne interne capable de percevoir les vibrations endogènes (voix, [[Humming]]) et exogènes.
 
 ---
 
-## Caractéristiques
-- Faible dissipation externe
-- Transmission interne efficace
-- Forte dépendance fréquentielle
-
----
-
-## Rôle biologique potentiel
-- Transmission vibratoire interne
-- Stimulation mécanique locale
-- Couplage avec la perception auditive et somatique
+## Portée transdisciplinaire
+- audition : perception de sa propre voix et dispositifs médicaux (implants).
+- locomotion : retour sensoriel des impacts au sol lors de la course.
+- pratique : utilisation de la vibration crânienne pour la modulation du système nerveux.
 
 ---
 
 ## Liens conceptuels
 - [[Vibration mécanique]]
-- [[Vibration acoustique]]
 - [[Impédance mécanique]]
-- [[Absorption vibratoire]]
-- [[Interface]]
+- [[Conduction]]
+- [[Absorption mécanique]]
 
 ## Sources
 - @

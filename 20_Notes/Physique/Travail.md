@@ -3,63 +3,63 @@ type: concept
 domain: physique
 ---
 
+# Travail
+
 ## Définition
-Grandeur physique représentant le transfert d’énergie
-résultant de l’action d’une force agissant sur un système
-au cours d’un déplacement.
+Grandeur physique mesurant le transfert d’énergie résultant de l’action d’une force agissant sur un [[Système]] au cours d’un déplacement.
 
-Le travail quantifie une **interaction active**
-entre un système et son environnement.
+Il constitue la mesure quantitative d'une **interaction active** entre un système et son environnement.
 
-## Définition générale
+---
 
-Le travail élémentaire est défini par :
+## Définition mathématique
+Le travail élémentaire $\delta W$ d'une force $\mathbf{F}$ lors d'un déplacement $d\mathbf{x}$ est :
 $$
-\delta W = \vec{F} \cdot d\vec{x}
+\delta W = \mathbf{F} \cdot d\mathbf{x}
 $$
 
-où :
-- $\vec{F}$ : force appliquée
-- $d\vec{x}$ : déplacement élémentaire
-
-## Travail total
-Le travail effectué le long d’un trajet $\Gamma$ est :
+Le travail total le long d’un chemin $\Gamma$ est l'intégrale de ligne :
 $$
-W = \int_{\Gamma} \vec{F} \cdot d\vec{x}
+W = \int_{\Gamma} \mathbf{F} \cdot d\mathbf{x}
 $$
 
-## Sens physique fondamental
-- Le travail correspond à une **conversion d’énergie**
-- Il dépend du chemin suivi (grandeur non conservative, en général)
-- Il est nul sans déplacement ou sans force projetée
+---
 
-## Travail et énergie
-Le travail est lié à la variation d’énergie cinétique :
-$$
-W = \Delta E_c
-$$
+## Travail et Énergie
+Le travail est le bras armé du changement énergétique :
+- théorème de l'énergie cinétique : $W_{net} = \Delta E_c$.
+- forces conservatives : le travail dérive d'un [[Potentiel]], $W = -\Delta E_p$.
+- forces non-conservatives : le travail exprime la [[Dissipation énergétique]] (chaleur).
 
-Cette relation fonde la connexion entre dynamique et énergie.
+---
+
+## Sens physique profond
+Le travail représente l'**acte de conversion**. 
+
+Il n'est pas une forme d'énergie stockée, mais une énergie "en transit". Il exprime la capacité d'une force à transformer la structure d'un système ou son état de mouvement. Sans déplacement, la force est une contrainte ; avec déplacement, elle devient un flux d'énergie.
+
+---
 
 ## Généralisation conceptuelle
-Le travail peut être étendu à :
-- travail de pression
-- travail électrique
-- travail chimique
-- travail biologique (au sens fonctionnel)
+Le concept s'étend à toute paire de variables conjuguées (force généralisée / déplacement généralisé) :
+- travail de pression : $-P dV$.
+- travail chimique : $\sum \mu_i dn_i$ (lié au [[Potentiel chimique]]).
+- travail électrique : $V dq$.
 
-## Rôle transdisciplinaire
-Le concept de travail apparaît dès qu’il y a :
-- interaction
-- contrainte
-- transformation
-- action orientée
+---
 
-## Concepts associés
+## Portée transdisciplinaire
+- physiologie : coût métabolique du travail musculaire ($W_{interne}$ vs $W_{externe}$).
+- thermodynamique : distinction entre travail (énergie ordonnée) et [[Chaleur]] (énergie désordonnée).
+- locomotion : optimisation du travail mécanique par le recyclage d'[[Énergie]] élastique.
+
+---
+
+## Liens conceptuels
 - [[Énergie]]
-- [[Flux]]
 - [[Force]]
 - [[Puissance]]
+- [[Flux]]
 - [[Dissipation énergétique]]
 
 ## Sources

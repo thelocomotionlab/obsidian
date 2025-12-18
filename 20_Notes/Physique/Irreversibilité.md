@@ -1,51 +1,45 @@
 ---
 type: concept
-domain: physique
+domain: thermodynamique / physique
 ---
 
-## Définition générale
-L’irréversibilité désigne le caractère
-asymétrique dans le temps
-de l’évolution des systèmes réels.
+# Irreversibilité
+
+## Définition
+Propriété d'un processus dont l'évolution temporelle ne peut être inversée sans laisser de trace permanente dans l'environnement.
+
+Elle définit la "flèche du temps" physique.
 
 ---
 
-## Manifestation thermodynamique
-Pour un système isolé :
+## Critère thermodynamique
+Un processus est irréversible si la production d'[[Entropie]] interne est strictement positive :
 $$
-\Delta S \ge 0
+dS_i > 0
 $$
 
-- $S$ : entropie  
+Pour un processus réversible idéal, $dS_i = 0$.
 
 ---
 
 ## Sens physique profond
-Les lois microscopiques sont
-majoritairement réversibles,
-mais les comportements macroscopiques
-ne le sont pas.
+L'irréversibilité est la signature de la **perte d'information** macroscopique. 
+
+Elle traduit le passage d'une énergie ordonnée et utile ([[Exergie]]) vers une énergie désordonnée et thermique. Tout mouvement réel, toute contraction musculaire et tout flux biologique sont intrinsèquement irréversibles.
 
 ---
 
-## Origines
-- Dissipation énergétique
-- Multiplicité des micro-états
-- Perte d’information
+## Nature systémique
+- dissipation : l'irréversibilité est inséparable de la [[Dissipation énergétique]].
+- asymétrie : elle rompt la symétrie par renversement du temps ($t \to -t$).
 
 ---
 
-## Rôle structurant
-L’irréversibilité donne une direction au temps
-et conditionne toute notion d’évolution réelle.
-
----
-
-## Concepts associés
+## Liens conceptuels
 - [[Entropie]]
-- [[Exergie]]
 - [[Dissipation énergétique]]
-- [[Système]]
+- [[Symétrie]]
+- [[Exergie]]
 
 ## Sources
 - @

@@ -1,69 +1,51 @@
 ---
 type: concept
-domain: physique
+domain: physique / acoustique
 ---
 
+# Absorption mécanique
+
 ## Définition
-Processus par lequel l’énergie associée à une vibration
-ou à une onde mécanique est partiellement convertie
-en d’autres formes d’énergie (principalement thermique),
-réduisant l’amplitude de la vibration transmise ou réfléchie.
+Processus par lequel l’énergie d’une onde ou d’une vibration traversant un milieu est captée par la structure et transformée en énergie interne (chaleur).
 
-## Nature fondamentale
-L’absorption vibratoire est :
-- dépendante de la fréquence
-- dépendante du milieu
-- dépendante des mécanismes dissipatifs internes
+L'absorption réduit l'amplitude de l'onde transmise ou réfléchie.
 
-Elle n’est jamais totale ni uniforme.
+---
 
-## Sens physique général
-Lorsqu’une vibration traverse un système réel :
-- une partie est transmise
-- une partie est réfléchie
-- une partie est absorbée
+## Bilan énergétique à l'interface
+Pour une onde incidente d'énergie $E_i$ :
+$$
+E_i = E_{réfléchie} + E_{absorbée} + E_{transmise}
+$$
 
-L’absorption correspond à la **dissipation interne**
-de l’énergie vibratoire.
+L'absorption correspond à la part de l'énergie qui ne ressort pas du milieu sous forme d'onde.
 
-## Origines physiques de l’absorption
-- Frottements internes
-- Viscosité
-- Déformations non parfaitement élastiques
-- Relaxations microscopiques
+---
+
+## Sens physique fondamental
+L'absorption est une **dissipation spatiale**. 
+Alors que l'amortissement décrit la perte d'énergie au cours du temps pour un oscillateur, l'absorption décrit l'atténuation de l'énergie au cours de sa propagation dans l'espace. Elle dépend de la capacité du milieu à transformer le mouvement ordonné de l'onde en agitation thermique microscopique.
+
+---
 
 ## Dépendance fréquentielle
-L’absorption n’est jamais constante :
-- elle varie fortement avec la fréquence
-- elle présente souvent des maxima proches
-  des [[Fréquence propre]] du système
+L’absorption n’est jamais uniforme :
+- milieux mous : absorbent mieux les hautes fréquences.
+- résonance interne : l'absorption est maximale lorsque la fréquence de l'onde excite les modes propres des molécules ou des fibres du milieu.
 
-## Importance transdisciplinaire
-L’absorption vibratoire est centrale pour :
-- la propagation des ondes
-- la protection mécanique
-- la perception sensorielle
-- l’adaptation des systèmes vivants
-- la robustesse face aux perturbations
+---
 
-## Contextes d’application
-- [[Vibration mécanique]]
-- [[Vibration acoustique]]
-- Tissus biologiques
-- Matériaux dissipatifs
-- Interfaces milieu–milieu
+## Importance biologique
+- protection : les fascias et la peau absorbent les vibrations macroscopiques avant qu'elles n'atteignent les centres nerveux sensibles.
+- perception : l'absorption différentielle permet au système sensoriel de filtrer les bruits mécaniques inutiles.
 
-## Concepts associés
-- [[Impédance mécanique]]
+---
+
+## Liens conceptuels
 - [[Amortissement]]
-- [[Résonance]]
-- [[Dissipation énergétique]]
-
-## Liens
-- [[Mécanotransduction]]
-- [[Tissu conjonctif]]
-- [[Adaptation]]
-- [[Robustesse]]
+- [[Impédance mécanique]]
+- [[Conduction osseuse]]
+- [[Propagation]]
 
 ## Sources
 - @

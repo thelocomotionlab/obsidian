@@ -1,14 +1,14 @@
 ---
 type: concept
-domain: physique
+domain: physique / biophysique
 ---
 
-## Définition générale
-La puissance est la grandeur physique qui mesure
-la rapidité avec laquelle une énergie est transférée,
-transformée ou dissipée.
+# Puissance
 
-Elle caractérise un **rythme de transformation énergétique**.
+## Définition
+La puissance est la grandeur mesurant la rapidité du transfert, de la transformation ou de la dissipation de l'[[Énergie]].
+
+Elle caractérise le **débit énergétique** du système.
 
 ---
 
@@ -17,71 +17,37 @@ $$
 P = \frac{dE}{dt}
 $$
 
-- $P$ : puissance  
-- $E$ : énergie  
-- $t$ : temps  
+- $P$ : puissance ($Watt$)
+- $E$ : énergie transférée
+- $t$ : temps
 
 ---
 
-## Puissance et travail
-La puissance instantanée associée à une force est :
+## Puissance mécanique
+Pour une force $\mathbf{F}$ s'appliquant sur un point animé d'une vitesse $\mathbf{v}$ :
 $$
-P = \vec{F} \cdot \vec{v}
-$$
-
-- $\vec{F}$ : force  
-- $\vec{v}$ : vitesse  
-
-Cette relation relie directement dynamique et énergie.
-
----
-
-## Puissance dans les systèmes continus
-Pour un flux d’énergie :
-$$
-P = \frac{dW}{dt}
+P = \mathbf{F} \cdot \mathbf{v}
 $$
 
-- $W$ : travail  
-
-Ou, sous forme surfacique :
-$$
-P = \iint_S \vec{J}_E \cdot d\vec{S}
-$$
-
-- $\vec{J}_E$ : densité de flux d’énergie  
-- $S$ : surface traversée  
+Cette relation montre que pour une puissance donnée, la force et la vitesse sont inversement proportionnelles.
 
 ---
 
 ## Sens physique profond
-- La puissance mesure une **intensité d’échange**
-- Elle distingue des systèmes lents et rapides
-- Elle est déterminante pour les limites physiologiques et matérielles
+La puissance définit la **limite temporelle de l'action**.
+
+L'énergie est une capacité de stockage, mais la puissance est une capacité de flux. En biologie, la puissance maximale est limitée par la vitesse des réactions enzymatiques (ex : ATPase) et la capacité des mitochondries à traiter les flux de protons.
 
 ---
 
-## Puissance, dissipation et limites
-Toute puissance réelle est associée à :
-- des pertes
-- une dissipation
-- une production d’entropie
-
-La puissance maximale soutenable est toujours finie.
+## Nature dynamique
+- production : vitesse de conversion de l'énergie chimique en [[Travail]].
+- dissipation : vitesse de production d'[[Entropie]] interne.
+- soutenabilité : rapport entre la puissance demandée et la puissance métabolique disponible.
 
 ---
 
-## Rôle transdisciplinaire
-La notion de puissance est centrale en :
-- mécanique
-- thermodynamique
-- électromagnétisme
-- biologie (métabolisme, effort)
-- systèmes complexes
-
----
-
-## Concepts associés
+## Liens conceptuels
 - [[Énergie]]
 - [[Travail]]
 - [[Flux]]

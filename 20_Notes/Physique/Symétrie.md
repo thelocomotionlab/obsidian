@@ -1,70 +1,49 @@
 ---
 type: concept
-domain: physique
+domain: mathématiques / physique
 ---
 
-## Définition générale
-Une symétrie est une transformation laissant
-inchangées les lois physiques ou les propriétés
-essentielles d’un système.
+# Symétrie
 
-La symétrie exprime une **invariance structurelle**.
+## Définition
+Une symétrie est une transformation qui laisse invariant l'aspect ou les lois régissant un [[Système]].
+
+Elle exprime une **redondance structurelle** ou une immunité au changement.
 
 ---
 
 ## Définition formelle
-Un système est symétrique si une transformation $T$
-laisse invariant une grandeur $G$ :
-$$
-G(T(x)) = G(x)
-$$
-
-- $T$ : transformation  
-- $x$ : état ou coordonnée  
-- $G$ : grandeur physique  
+Un système possède une symétrie $T$ si l'action de $T$ commute avec la dynamique du système, laissant inchangée sa structure fondamentale.
 
 ---
 
-## Types de symétries fondamentales
-- Translation temporelle
-- Translation spatiale
-- Rotation
-- Symétrie de jauge
-- Symétrie discrète (parité, inversion)
+## Symétrie et Lois de conservation
+Le lien est assuré par le **[[Théorème de Noether]]** :
+- symétrie par translation dans le temps $\leftrightarrow$ conservation de l'[[Énergie]].
+- symétrie par translation spatiale $\leftrightarrow$ conservation de la [[Quantité de mouvement]].
+- symétrie par rotation $\leftrightarrow$ conservation du [[Moment cinétique]].
 
 ---
 
-## Symétrie et dynamique
-Les symétries imposent :
-- des contraintes sur les équations
-- des invariants du mouvement
-- des lois de conservation
+## Sens physique profond
+La symétrie est l'outil ultime de réduction de la complexité. 
+
+Plutôt que de décrire chaque détail, on décrit ce qui ne change pas. En biologie, la symétrie (ou son absence, la chiralité) conditionne la fonction des molécules et l'organisation des plans de corps.
 
 ---
 
-## Symétrie et réalité physique
-La structure du réel est gouvernée
-par des symétries plus profondes
-que les phénomènes observables.
+## Portée transdisciplinaire
+- physique des particules : symétries de jauge définissant les forces.
+- biologie : symétrie bilatérale et morphogenèse.
+- mathématiques : théorie des groupes.
 
 ---
 
-## Rôle transdisciplinaire
-Le concept de symétrie apparaît en :
-- physique fondamentale
-- chimie
-- biologie (formes, invariances)
-- mathématiques
-- art et perception
-
----
-
-## Concepts associés
-- [[Théorème de Noether]]
-- [[Lois de conservation]]
+## Liens conceptuels
 - [[Invariance]]
+- [[Lois de conservation]]
+- [[Théorème de Noether]]
 - [[Structure]]
-- [[Énergie]]
 
 ## Sources
 - @

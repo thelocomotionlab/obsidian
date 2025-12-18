@@ -1,63 +1,52 @@
 ---
 type: concept
-domain: métaphysique physique
+domain: physique / métaphysique
 ---
 
-## Définition générale
-Un système est une portion du réel
-délimitée conceptuellement afin d’en décrire
-l’état, l’évolution et les interactions.
+# Système
 
-Le système est une **construction intellectuelle**,
-non un objet absolu.
+## Définition
+Un système est une portion du réel délimitée conceptuellement afin d'en décrire l'état, l'évolution et les interactions. 
+
+Le système n'est pas l'objet lui-même, mais une **frontière intellectuelle** posée sur la complexité du monde.
 
 ---
 
 ## Composants fondamentaux
-- Des éléments
-- Des relations
-- Des frontières
-- Des échanges possibles
+- éléments : constituants internes du système.
+- relations : interactions internes entre les éléments.
+- frontières : limite (physique ou fictive) séparant le système de l'environnement.
+- environnement : tout ce qui n'est pas le système mais interagit avec lui.
 
 ---
 
-## États et variables
-Un système est décrit par :
-- un ensemble de variables d’état
-- des paramètres
-- des contraintes
+## Taxonomie thermodynamique
+La nature du système est définie par ce qu'il laisse traverser sa frontière :
+- isolé : aucun échange de matière ni d'[[Énergie]].
+- fermé : échange d'[[Énergie]] uniquement.
+- ouvert : échange de matière et d'[[Énergie]] (cas de la [[Cellule]]).
 
 ---
 
-## Frontières et environnement
-La distinction système / environnement
-est toujours relative à l’observateur
-et à la question posée.
+## Sens physique profond
+Le choix du système est l'acte fondateur de la modélisation. 
+
+Ce choix détermine quels principes de conservation s'appliquent. Un système isolé conserve son [[Énergie]] et son [[Moment cinétique]], tandis qu'un système ouvert est régi par des flux et une production d'[[Entropie]].
 
 ---
 
-## Types de systèmes
-- Isolé
-- Fermé
-- Ouvert
-- Conservatif
-- Dissipatif
+## Portée transdisciplinaire
+- physiologie : le corps comme système ouvert en homéostasie.
+- mécanique : définition du système de points pour le [[Lagrangien]].
+- cybernétique : étude des boucles de rétroaction.
 
 ---
 
-## Sens conceptuel profond
-Tout modèle physique commence
-par un choix de système.
-
-Ce choix conditionne :
-- les lois applicables
-- les bilans
-- les invariants
-
----
-
-## Concepts associés
-
+## Liens conceptuels
+- [[Interface]]
+- [[Flux]]
+- [[Entropie]]
+- [[Lois de conservation]]
 
 ## Sources
 - @

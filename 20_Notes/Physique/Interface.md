@@ -1,42 +1,43 @@
 ---
 type: concept
-domain: physique
+domain: physique / systémique
 ---
 
+# Interface
+
 ## Définition
-Zone de séparation entre deux milieux distincts
-où les propriétés physiques changent brutalement
-ou progressivement.
+Zone de transition ou frontière séparant deux milieux aux propriétés physiques, chimiques ou biologiques distinctes.
 
-## Nature fondamentale
-Une interface n’est pas un objet géométrique idéal,
-mais une région où :
-- les champs varient
-- des échanges ont lieu
-- des discontinuités apparaissent
+---
 
-## Rôle physique
-- Transmission ou réflexion des ondes
-- Échanges d’énergie et de matière
-- Dissipation et absorption
-- Couplage entre systèmes
+## Nature physique
+Une interface est un lieu de **discontinuité**. C'est là que les lois de conservation imposent des conditions aux limites :
+- réflexion/transmission : une partie du [[Flux]] traverse, l'autre rebondit.
+- gradient : les variables d'état (température, pression) y subissent souvent leurs plus fortes variations.
+- tension superficielle : l'interface possède sa propre énergie due au déséquilibre des forces moléculaires.
 
-## Lois générales aux interfaces
-- Conservation de l’énergie
-- Conditions aux limites sur les champs
-- Continuité ou discontinuité selon les propriétés
+---
 
-## Importance transdisciplinaire
-- Mécanique (contact, frottement)
-- Acoustique (impédance)
-- Thermodynamique (flux de chaleur)
-- Biologie (membranes, endothélium)
+## Rôle systémique
+L'interface remplit trois fonctions majeures :
+- séparation : maintien de l'intégrité du [[Système]] face à l'environnement.
+- échange : régulation des flux entrants et sortants.
+- communication : conversion des signaux (ex: [[Mécanotransduction]] au niveau membranaire).
 
-## Concepts associés
-- [[Impédance mécanique]]
-- [[Couplage vibratoire]]
-- [[Absorption vibratoire]]
+---
+
+## Sens conceptuel profond
+L'interface est le **lieu de l'interaction**. 
+
+Rien ne se passe au sein d'un milieu parfaitement homogène ; c'est à l'interface que l'énergie est transformée, que l'information est lue et que la complexité émerge. Dans le corps, la santé est souvent une question de qualité d'interface (membranes, [[Endothélium]]).
+
+---
+
+## Liens conceptuels
+- [[Système]]
 - [[Flux]]
+- [[Impédance mécanique]]
+- [[Membrane]]
 
 ## Sources
 - @
