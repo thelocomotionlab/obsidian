@@ -24,8 +24,7 @@ $$
 $$
 
 ## Sens physique fondamental
-Le flux ne décrit pas un état,
-mais un **processus de transfert**.
+Le flux ne décrit pas un état mais un **processus de transfert**.
 
 Il relie :
 - une grandeur

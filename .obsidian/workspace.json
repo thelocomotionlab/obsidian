@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bdbfa533ba6a9c49",
+        "id": "510a1169f157aec3",
         "type": "tabs",
         "children": [
           {
-            "id": "20179c5612d860db",
+            "id": "cc9d0a34a944c567",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,8 +176,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "20179c5612d860db",
+  "active": "cc9d0a34a944c567",
   "lastOpenFiles": [
+    "20_Notes/Physique/Couplage air-tissus.md",
+    "20_Notes/Mathématiques/Champ tensoriel.md",
+    "20_Notes/Mathématiques/Champ vectoriel.md",
+    "20_Notes/Mathématiques/Champ scalaire.md",
+    "20_Notes/Mathématiques",
+    "20_Notes/Physiologie/Flux sanguin → cisaillement → NO → vasodilatation.md",
+    "10_Sources/Rapport - Résonance Biologique (Gemini 2025).md",
+    "20_Notes/Physique/Théorie des champs.md",
+    "20_Notes/Physique/Flux.md",
+    "99_Templates/post_instagram.md",
     "20_Notes/Physique/Pression partielle.md",
     "20_Notes/Biophysique/Effet de Bohr.md",
     "20_Notes/Biologie/Hémoglobine.md",
@@ -193,18 +203,9 @@
     "05_Reference/Citations/Citations entraînement.md",
     "05_Reference/Notes.md",
     "05_Reference/Idées d’articles.md",
-    "10_Sources/Rapport - Résonance Biologique.md",
     "05_Reference/Note - Architecture du système de notes.md",
     "05_Reference/Citations/Citations philosophiques.md",
     "05_Reference/Nomenclature des notes.md",
-    "05_Reference/Couches fondamentales des concepts.md",
-    "05_Reference/Architecture du système de notes.md",
-    "05_Reference/Sans titre.md",
-    "20_Notes/Anatomie/Endothélium.md",
-    "20_Notes/Biophysique/Mécanotransduction.md",
-    "20_Notes/Anatomie/Épithélium.md",
-    "20_Notes/Anatomie/Flux Sanguin.md",
-    "20_Notes/Physique/Vibration mécanique.md",
     "90_Attachments/pdf/gemini_2025_resonance_biologique.pdf",
     "20_Notes/Vibrations/Sources",
     "20_Notes/Vibrations/Cadres",
@@ -212,7 +213,6 @@
     "20_Notes/Expériences/Divers",
     "20_Notes/Expériences/Froid",
     "20_Notes/Expériences/Pratiques corporelles",
-    "20_Notes/Expériences/Trail",
-    "20_Notes/Expériences"
+    "20_Notes/Expériences/Trail"
   ]
 }
