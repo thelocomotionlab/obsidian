@@ -1,68 +1,49 @@
 ---
 type: concept
-domain: mathématiques
+domain: math
 ---
+
+# Champ vectoriel
 
 ## Définition
-Un champ vectoriel est une application
-qui associe à chaque point d’un domaine
-un vecteur appartenant à un espace vectoriel.
+Un **champ vectoriel** est une application :
+\[
+\mathbf{F}:\Omega\subseteq\mathbb{R}^n \to \mathbb{R}^n
+\]
+À chaque point \(\mathbf{x}\), il associe un **vecteur** \(\mathbf{F}(\mathbf{x})\).
 
----
+## Représentation
+En coordonnées cartésiennes (\(n=3\)) :
+\[
+\mathbf{F}(x,y,z)=\big(F_x(x,y,z),\,F_y(x,y,z),\,F_z(x,y,z)\big)
+\]
 
-## Définition mathématique
-$$
-\vec{F} : \mathcal{D} \rightarrow \mathbb{R}^n
-$$
+## Objets liés
+- [[Divergence]] : \(\nabla\cdot\mathbf{F}\) (vectoriel → scalaire)
+- [[Rotationnel]] : \(\nabla\times\mathbf{F}\) (vectoriel → vectoriel, en 3D)
+- [[Jacobien]] : \(\nabla \mathbf{F}\) (vectoriel → [[Champ tensoriel]] ordre 2)
+- [[Flux]] : \(\iint_S \mathbf{F}\cdot \mathrm{d}\mathbf{S}\)
+- [[Circulation]] : \(\oint_C \mathbf{F}\cdot \mathrm{d}\mathbf{l}\)
 
-- $\mathcal{D}$ : domaine
-- $\vec{F}(x)$ : vecteur associé au point $x$
+## Interprétation physique fondamentale
+Un champ vectoriel encode une **intensité + direction** locale.
+- Vitesse d’un fluide \(\mathbf{v}(\mathbf{x})\)
+- Champ électrique \(\mathbf{E}(\mathbf{x})\)
+- Champ magnétique \(\mathbf{B}(\mathbf{x})\)
+- Champ de force \(\mathbf{f}(\mathbf{x})\)
 
----
+## Exemples universels
+- Écoulement radial (source) :
+\[
+\mathbf{F}(\mathbf{x}) = \frac{\mathbf{x}}{\|\mathbf{x}\|^3}
+\quad(\mathbf{x}\neq 0)
+\]
+- Rotation rigide autour de \(z\) :
+\[
+\mathbf{F}(x,y,z)=(-\omega y,\ \omega x,\ 0)
+\]
 
-## Structure mathématique
-Un champ vectoriel possède :
-- une magnitude
-- une direction
-- un sens
-
-Il dépend du choix d’une base
-et des propriétés du domaine.
-
----
-
-## Opérations différentielles
-Un champ vectoriel peut être :
-- dérivé
-- intégré
-- contracté
-- projeté
-
-Il peut produire des scalaires ou des tenseurs.
-
----
-
-## Relation avec les champs scalaires
-- Le gradient d’un champ scalaire est un champ vectoriel
-- La divergence d’un champ vectoriel est un scalaire
-
----
-
-## Sens conceptuel abstrait
-Le champ vectoriel encode
-une orientation locale du domaine,
-indiquant une direction privilégiée
-en chaque point.
-
----
-
-## Liens conceptuels
-- [[Champ]]
-- [[Champ scalaire]]
-- [[Champ tensoriel]]
-- [[Divergence]]
-- [[Rotationnel]]
-- [[Espace vectoriel]]
-
-## Sources
-- @
+## Mesures locales (liées aux opérateurs différentiels)
+- “Tendance à sortir / entrer” : [[Divergence]]
+- “Tendance à tourner” : [[Rotationnel]]
+- “Variation directionnelle de chaque composante” : [[Jacobien]]
