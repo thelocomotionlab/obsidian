@@ -1,65 +1,42 @@
 ---
 type: concept
-domain: neurosciences
+domain: neurosciences / dynamique non linéaire
 ---
+
+# Neurone thalamocortical
 
 ## Définition
-Le neurone thalamocortical est un neurone projectif
-connectant le thalamus au cortex cérébral,
-jouant un rôle central dans la transmission
-et la modulation des informations sensorielles
-et rythmiques.
+Cellule nerveuse relais située dans le thalamus, projetant massivement vers le cortex cérébral et recevant des rétroactions corticales.
 
 ---
 
-## Rôle fonctionnel général
-Les neurones thalamocorticaux :
-- relaient l’information sensorielle vers le cortex
-- participent à la synchronisation corticale
-- contribuent aux rythmes neuronaux globaux
+## Dualité dynamique : Modes de décharge
+Le neurone thalamocortical possède deux états bistables selon son [[Potentiel]] de membrane :
+1. **Mode Tonique** : Transfert linéaire de l'information (éveil, attention).
+2. **Mode Burst (Salves)** : Décharge rythmique non linéaire (sommeil, absence).
 
 ---
 
-## Dynamique oscillatoire
-Ces neurones peuvent fonctionner selon :
-- un mode tonique
-- un mode oscillatoire (burst)
-
-Leur comportement dépend de l’état global du système nerveux.
+## Biophysique de l'oscillation
+Le passage entre les modes dépend de l'activation des canaux calciques de type T ($I_T$). 
+À un potentiel hyperpolarisé, ces canaux se désinactivent, permettant l'émergence d'une dépolarisation lente qui génère une salve de potentiels d'action.
 
 ---
 
-## Activité rythmique (niveau abstrait)
-Les interactions thalamus–cortex participent
-à l’émergence de rythmes cérébraux
-(par ex. alpha, beta, gamma).
+## Sens conceptuel profond : La Porte (Gate)
+Le neurone thalamocortical agit comme un **filtre dynamique ajustable**. 
+Il ne se contente pas de transmettre l'information ; il décide, par sa dynamique intrinsèque, si le monde extérieur est "audible" pour le cortex.
 
 ---
 
-## Sens conceptuel profond
-Le neurone thalamocortical est une interface dynamique
-entre :
-- perception
-- état de vigilance
-- organisation temporelle de l’activité cérébrale
-
----
-
-## Position systémique
-Il agit comme :
-- un filtre dynamique
-- un modulateur de flux informationnels
-- un élément de synchronisation inter-réseaux
+## Portée systémique
+Il est l'unité de base des **boucles thalamocorticales**, responsables de la genèse des rythmes EEG (alpha, fuseaux du sommeil) et de la [[Synchronisation]] neurale à grande échelle.
 
 ---
 
 ## Liens conceptuels
 - [[Neurone]]
-- [[Système nerveux central]]
-- [[Oscillation]]
-- [[Résonance]]
 - [[Synchronisation]]
-- [[Système]]
 
 ## Sources
 - @

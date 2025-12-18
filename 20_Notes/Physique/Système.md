@@ -57,11 +57,7 @@ Ce choix conditionne :
 ---
 
 ## Concepts associés
-- [[Flux]]
-- [[Interface]]
-- [[État]]
-- [[Invariant]]
-- [[Irreversibilité]]
+
 
 ## Sources
 - @

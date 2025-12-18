@@ -23,7 +23,7 @@ Toute vibration locale peut être modélisée comme
 un oscillateur harmonique à première approximation.
 
 ## Liens
-- [[Oscillateur armoti]]
+- [[Oscillateur amorti]]
 - [[Vibration mécanique]]
 - [[Absorption mécanique]]
 - [[Résonance]]

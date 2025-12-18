@@ -1,6 +1,6 @@
 ---
 type: concept
-domain: biologie
+domain: chimie
 ---
 
 ## Définition
@@ -40,7 +40,6 @@ par le [[Flux sanguin]].
 - [[Flux sanguin]]
 - [[Mécanotransduction]]
 - [[Vasodilatation]]
-- [[Respiration mitochondriale]]
 
 ## Sources
 - @

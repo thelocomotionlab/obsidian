@@ -40,6 +40,7 @@ direct avec le sang ou la lymphe.
 - [[Vasodilatation]]
 - [[Vasoconstriction]]
 - [[Oxyde nitrique]]
+- [[Cisaillement]]
 
 ## Sources
 - @

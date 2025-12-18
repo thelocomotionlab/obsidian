@@ -33,11 +33,3 @@ $\nabla$ “mesure” la **variation locale** :
 En dimension $n$, $\nabla=(\partial_{x_1},\dots,\partial_{x_n})$.
 Le rotationnel “vectoriel” n’existe au sens simple qu’en 3D (et une version spéciale en 2D). En dimension générale, on généralise via formes différentielles (extérieur $d$).
 
----
-
-## Liens conceptuels
-- [[Gradient]]
-- [[Divergence]]
-- [[Rotationnel]]
-- [[Jacobien]]
-- [[Hessien]]

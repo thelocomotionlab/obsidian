@@ -24,5 +24,5 @@ fortement amortis mais adaptatifs.
 ## Liens
 - [[Oscillateur harmonique]]
 - [[Vibration mécanique]]
-- [[Dissipation]]
-- [[Robustesse]]
+- [[Absorption mécanique]]
+- [[Amortissement]]
