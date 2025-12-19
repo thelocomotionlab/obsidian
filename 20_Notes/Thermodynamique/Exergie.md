@@ -15,10 +15,10 @@ Contrairement à l'énergie, l'exergie n'est pas conservée : elle est détruite
 ## Définition mathématique
 Pour un système fermé en interaction avec un réservoir à $T_0$ et $P_0$ :
 $$
-Ex = (U - U_0) + P_0(V - V_0) - T_0(S - S_0)
+E_x = (U - U_0) + P_0(V - V_0) - T_0(S - S_0)
 $$
 
-- $Ex$ : exergie du système
+- $E_x$ : exergie du système
 - $U, V, S$ : énergie interne, volume et entropie du système
 - $U_0, V_0, S_0$ : propriétés du système à l'état mort (équilibre avec l'environnement)
 

@@ -1,6 +1,6 @@
 ---
 type: concept
-domain: physiologie / biophysique
+domain: biologie
 ---
 
 # Sang
@@ -15,7 +15,7 @@ Sur le plan physique, c'est un **fluide non newtonien rhéofluidifiant**.
 ## Propriétés rhéologiques
 La [[Viscosité]] du sang n'est pas constante :
 - comportement rhéofluidifiant : sa viscosité diminue lorsque le taux de [[Cisaillement]] augmente. À haut débit, les globules rouges se déforment et s'alignent, facilitant le [[Flux]].
-- influence de l'hématocrite : la viscosité augmente de façon exponentielle avec la concentration en globules rouges.
+- influence de l'[[Hématocrite]] : la viscosité augmente de façon exponentielle avec la concentration en globules rouges.
 - agrégation : à bas débit, les globules s'empilent en "rouleaux", ce qui augmente la résistance à l'écoulement.
 
 ---

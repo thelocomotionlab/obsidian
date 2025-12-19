@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "510a1169f157aec3",
+        "id": "c3c7091c1a19c611",
         "type": "tabs",
         "children": [
           {
-            "id": "cc9d0a34a944c567",
+            "id": "9c4b25b101ad5258",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "20_Notes/Physique/Synchronisation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Synchronisation"
             }
           }
         ]
@@ -176,43 +180,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc9d0a34a944c567",
+  "active": "9c4b25b101ad5258",
   "lastOpenFiles": [
-    "20_Notes/Mathématiques/Laplacien.md",
-    "20_Notes/Mathématiques/Hessien.md",
-    "20_Notes/Mathématiques/Jacobien.md",
-    "20_Notes/Mathématiques/Divergence.md",
-    "20_Notes/Mathématiques/Gradient.md",
-    "20_Notes/Physique/Gradient.md",
-    "20_Notes/Mathématiques/Nabla.md",
-    "20_Notes/Physique/Couplage air-tissus.md",
-    "20_Notes/Mathématiques/Champ tensoriel.md",
-    "20_Notes/Mathématiques/Champ vectoriel.md",
-    "20_Notes/Mathématiques/Champ scalaire.md",
-    "20_Notes/Mathématiques",
-    "20_Notes/Physiologie/Flux sanguin → cisaillement → NO → vasodilatation.md",
-    "10_Sources/Rapport - Résonance Biologique (Gemini 2025).md",
-    "20_Notes/Physique/Théorie des champs.md",
-    "20_Notes/Physique/Flux.md",
-    "99_Templates/post_instagram.md",
-    "20_Notes/Physique/Pression partielle.md",
-    "20_Notes/Biophysique/Effet de Bohr.md",
-    "20_Notes/Biologie/Hémoglobine.md",
-    "20_Notes/Chimie/Affinité chimique.md",
-    "20_Notes/Chimie",
-    "20_Notes/Biophysique/Dioxyde de carbone.md",
-    "20_Notes/Biophysique/Dioxyde de Carbone.md",
-    "20_Notes/Biophysique/Oxygène.md",
+    "20_Notes/Biochimie/Acides aminés.md",
     "20_Notes/Biologie/Neurone thalamocortical.md",
-    "20_Notes/Biologie/Neurone.md",
-    "20_Notes/Mécanique des fluides/Nombre de Reynolds.md",
+    "20_Notes/Physique/Potentiel.md",
+    "20_Notes/Biologie/Hématocrite.md",
+    "20_Notes/Chimie/Affinité chimique.md",
+    "00_Inbox/gemini_rest_pace.pdf",
+    "20_Notes/Anatomie/Endothélium.md",
+    "20_Notes/Anatomie/Épithélium.md",
+    "10_Sources/Rapport - Résonance Biologique (Gemini 2025).md",
+    "20_Notes/Thermodynamique/Exergie.md",
+    "20_Notes/Biologie/Cellule.md",
+    "20_Notes/Thermodynamique/Énergie libre.md",
+    "20_Notes/Thermodynamique/Température.md",
+    "20_Notes/Thermodynamique/Enthalpie libre.md",
+    "20_Notes/Physique/Synchronisation.md",
+    "20_Notes/Physique/Pression.md",
+    "20_Notes/Physique/Impédance mécanique.md",
+    "20_Notes/Physique/Dissipation entropique.md",
+    "20_Notes/Physique/Atome.md",
+    "20_Notes/Mécanique des fluides/Vorticité.md",
+    "20_Notes/Mécanique des fluides/Viscosité.md",
+    "20_Notes/Mécanique des fluides/Fluide non newtonien.md",
+    "20_Notes/Mécanique des fluides/Fluide newtonien.md",
+    "20_Notes/Mécanique des fluides/Cisaillement.md",
+    "20_Notes/Mathématiques/Rotationnel.md",
+    "20_Notes/Mathématiques/Lagrangien.md",
+    "20_Notes/Mathématiques/Circulation.md",
+    "20_Notes/Biochimie/Acides aminés",
+    "20_Notes/Biochimie",
+    "20_Notes/Mathématiques",
+    "20_Notes/Chimie",
     "90_Attachments/pdf/gemini_2025_resonance_biologique.pdf",
     "20_Notes/Vibrations/Sources",
     "20_Notes/Vibrations/Cadres",
     "20_Notes/Vibrations",
-    "20_Notes/Expériences/Divers",
-    "20_Notes/Expériences/Froid",
-    "20_Notes/Expériences/Pratiques corporelles",
-    "20_Notes/Expériences/Trail"
+    "20_Notes/Expériences/Divers"
   ]
 }

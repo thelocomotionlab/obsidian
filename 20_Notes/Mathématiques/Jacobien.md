@@ -1,40 +1,52 @@
 ---
 type: concept
-domain: math
+domain: mathématiques / mécanique
 ---
 
 # Jacobien
 
 ## Définition
-Pour un [[Champ vectoriel]] $\mathbf{F}:\mathbb{R}^n\to\mathbb{R}^m$,
-le **jacobien** est la matrice :
-$$
-J_{\mathbf{F}}(\mathbf{x})=\left[\frac{\partial F_i}{\partial x_j}\right]_{i=1..m,\ j=1..n}
-$$
-Quand $m=n$, c’est un champ tensoriel d’ordre 2 (matrice carrée).
+Le jacobien est le tenseur d'ordre 2 (matrice) représentant la dérivée d'une fonction vectorielle par rapport à une variable vectorielle. 
 
-## Sens fondamental
-C’est la **meilleure approximation linéaire locale** :
-$$
-\mathbf{F}(\mathbf{x}+\delta\mathbf{x})\approx \mathbf{F}(\mathbf{x}) + J_{\mathbf{F}}(\mathbf{x})\,\delta\mathbf{x}
-$$
+C'est l'**opérateur de linéarisation locale** par excellence.
 
-## Objets liés
-- [[Gradient]] : cas particulier $m=1$ (jacobien = gradient transposé selon convention)
-- [[Champ tensoriel]] : $J_{\mathbf{F}}$ est un tenseur d’ordre 2
-- En mécanique : $\nabla\mathbf{v}$ (gradient de vitesse) → taux de déformation, rotation, etc.
+---
 
-## Exemple universel
-Si $\mathbf{F}(x,y)=(x^2y,\ \sin x)$,
+## Formalisme
+Pour une fonction $\mathbf{F}: \mathbb{R}^n \to \mathbb{R}^m$ :
 $$
-J_{\mathbf{F}}=
-\begin{pmatrix}
-\partial_x(x^2y) & \partial_y(x^2y)\\
-\partial_x(\sin x) & \partial_y(\sin x)
-\end{pmatrix}
-=
-\begin{pmatrix}
-2xy & x^2\\
-\cos x & 0
-\end{pmatrix}
+\mathbf{J}_{\mathbf{F}} = \left[ \frac{\partial F_i}{\partial x_j} \right]
 $$
+Si $\mathbf{F}$ représente le déplacement d'un milieu continu, $\mathbf{J}_{\mathbf{F}}$ est le **gradient de transformation**.
+
+---
+
+## Sens physique profond : Déformation et Volume
+Le jacobien capture comment un petit vecteur $d\mathbf{x}$ est transformé en un vecteur $d\mathbf{F}$ :
+1. **Linéarisation** : $\mathbf{F}(\mathbf{x} + d\mathbf{x}) \approx \mathbf{F}(\mathbf{x}) + \mathbf{J}_{\mathbf{F}} d\mathbf{x}$.
+2. **Déterminant Jacobien ($det(\mathbf{J})$)** : il mesure le changement de volume local lors d'une transformation :
+    - $det(\mathbf{J}) > 1$ : expansion (dilatation).
+    - $det(\mathbf{J}) < 1$ : contraction (compression).
+    - $det(\mathbf{J}) = 1$ : conservation du volume (isochore).
+
+---
+
+## Applications en Mécanique
+Le jacobien du champ de vitesse d'un fluide se décompose en :
+- une partie symétrique : le **taux de déformation** (étirement).
+- une partie antisymétrique : le **vorticité** (rotation locale).
+
+---
+
+## Applications au "Locomotion Lab"
+- **Anatomie dynamique** : changement de volume des muscles lors de la contraction.
+- **Robotique / Contrôle** : le jacobien relie les vitesses articulaires (angles) à la vitesse de l'extrémité du membre dans l'espace.
+- **Changement de coordonnées** : passage des coordonnées cartésiennes aux coordonnées cylindriques ou sphériques (ex : pour modéliser un vaisseau sanguin).
+
+## Liens conceptuels
+- [[Gradient]]
+- [[Tenseur]]
+- [[Système]]
+
+## Sources
+- @

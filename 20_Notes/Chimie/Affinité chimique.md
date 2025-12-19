@@ -1,79 +1,65 @@
 ---
 type: concept
-domain: chimie / thermodynamique
+domain: chimie
 ---
+
+# Affinité chimique
 
 ## Définition
-L’affinité chimique désigne la tendance d’un système chimique
-à évoluer spontanément par réaction,
-en fonction de son état thermodynamique.
+L'affinité chimique ($A$) est la grandeur thermodynamique qui mesure la tendance d'un système à évoluer par réaction chimique. 
 
-Elle mesure la “force motrice” d’une transformation chimique.
+Elle représente la **force motrice** qui pousse les réactifs à se transformer en produits.
 
 ---
 
-## Définition thermodynamique
-L’affinité chimique $A$ est définie par :
+## Définition mathématique (De Donder)
+Pour une réaction chimique donnée, l'affinité est définie par l'opposé de la variation d'[[Enthalpie libre]] par rapport à l'avancement de la réaction $\xi$ :
 $$
-A = - \left( \frac{\partial G}{\partial \xi} \right)_{T,p}
-$$
-
-- $A$ : affinité chimique  
-- $G$ : énergie libre de Gibbs  
-- $\xi$ : avancement de la réaction  
-- $T$ : température  
-- $p$ : pression  
-
----
-
-## Lien avec la spontanéité
-Une réaction évolue spontanément si :
-$$
-A > 0
+A = -\left( \frac{\partial G}{\partial \xi} \right)_{T, P} = \sum_{i} \nu_i \mu_i
 $$
 
-À l’équilibre chimique :
-$$
-A = 0
-$$
+- $G$ : [[Enthalpie libre]].
+- $\xi$ : avancement de la réaction.
+- $\mu_i$ : [[Potentiel chimique]] de l'espèce $i$.
+- $\nu_i$ : coefficients stoechiométriques (positifs pour les produits, négatifs pour les réactifs).
 
 ---
 
 ## Sens physique profond
-L’affinité chimique exprime
-le déséquilibre énergétique interne
-qui pousse un système à se transformer.
+L'affinité chimique est la **pression de transformation**. 
 
-Elle est une manifestation locale
-de la recherche d’un minimum d’énergie libre.
+Tout comme une différence de pression mécanique génère un mouvement de fluide, une affinité non nulle génère un flux de transformation chimique. Un système est à l'équilibre chimique si et seulement si son affinité est nulle ($A = 0$). Si $A > 0$, la réaction progresse spontanément vers la droite.
 
----
 
-## Affinité et potentiel chimique
-Pour une réaction impliquant plusieurs espèces :
-$$
-A = - \sum_i \nu_i \mu_i
-$$
-
-- $\nu_i$ : coefficient stœchiométrique  
-- $\mu_i$ : potentiel chimique de l’espèce $i$  
 
 ---
 
-## Portée transdisciplinaire
-- Chimie physique (cinétique, équilibres)
-- Biochimie (liaisons enzyme–substrat)
-- Physiologie (transport de gaz, ligands)
-- Biophysique (couplage énergie–fonction)
+## Relation avec l'Entropie
+L'affinité est directement liée à la vitesse de production d'[[Entropie]] interne du système :
+$$
+\frac{dS_i}{dt} = \frac{A \cdot v}{T} \ge 0
+$$
+
+- $v$ : vitesse de la réaction ($d\xi / dt$).
+- $T$ : température.
+
+Cela montre que la dissipation chimique est le produit du [[Flux]] (vitesse) par la force associée (affinité).
+
+---
+
+## Rôle systémique
+- couplage : dans la [[Cellule]], une réaction d'affinité négative (non spontanée) peut être "poussée" par un couplage avec l'hydrolyse de l'[[ATP]] qui possède une affinité très élevée.
+- cinétique : bien que l'affinité indique la "volonté" de réaction, elle ne dit rien sur sa vitesse réelle, qui dépend des barrières d'activation.
 
 ---
 
 ## Liens conceptuels
+- [[Enthalpie libre]]
 - [[Potentiel chimique]]
-- [[Énergie libre de Gibbs]]
-- [[Équilibre]]
-- [[Irreversibilité]]
-- [[Système]]
+- [[Entropie]]
+- [[Dissipation entropique]]
+- [[Effet de Bohr]]
 
 ## Sources
+- De Donder, T. (1927). *L'Affinité*.
 - @
