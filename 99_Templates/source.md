@@ -1,25 +1,62 @@
 ---
 type: source
 title:
-subtitle:
 author:
 year:
 document_type:
-status: reading | extracted
-source_pdf:
+status: reading | ingested
 ---
 
-## Objectif du document
-(1–2 phrases)
+# Source — {{title}}
 
-## Structure
+## Résumé (descriptif, neutre)
+Synthèse factuelle du document : objectif, périmètre, type de contribution.
+Aucune interprétation personnelle.
+
+---
+
+## Structure du document
+*(Organisation interne telle que proposée par les auteurs)*
+
+### Partie I —
+- Point clé 1
+- Point clé 2
+
+### Partie II —
+- Point clé 1
+- Point clé 2
+
+---
+
+## Fragments / éléments notables
+*(Énoncés ou idées qui “résistent” à la lecture, sans hiérarchie)*
+
+- 
+- 
 - 
 
-## Décisions d’ingestion
+---
+
+## Mécanismes décrits ou mobilisés
+*(Mécanismes explicitement nommés ou utilisés par les auteurs)*
+
+- 
 - 
 
-## Limites / biais du document
+---
+
+## Données marquantes
+*(Ordres de grandeur, fréquences, effets mesurés, résultats clés)*
+
+- 
 - 
 
-## Notes liées
-- [[]]
+---
+
+## Concepts liés (existants ou à créer)
+- [[ ]]
+
+---
+
+## MOCs liés
+- [[ ]]
