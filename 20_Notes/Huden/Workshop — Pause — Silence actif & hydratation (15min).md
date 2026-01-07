@@ -5,7 +5,7 @@ context: workshop_human_movement
 duration_min: 15
 ---
 
-# Workshop — Pause — Silence actif et hydratation (15min)
+# Workshop — Pause — Silence actif & hydratation (15min)
 
 ## Objectif opérationnel
 Intégration silencieuse + récupération, sans casser la présence. :contentReference[oaicite:34]{index=34}

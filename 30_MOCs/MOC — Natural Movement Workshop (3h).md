@@ -21,9 +21,9 @@ Créer un espace sécurisé et non performatif permettant aux participants de re
 - [[Workshop — Ouverture — Créer le container]]
 - [[Workshop — Bloc 1 — Réveil corporel (45min)]]
 - [[Workshop — Bloc 2 — Exploration guidée (70min)]]
-- [[Workshop — Pause — Silence actif et hydratation (15min)]]
+- [[Workshop — Pause — Silence actif & hydratation (15min)]]
 - [[Workshop — Bloc 3 — Intégration tribale (50min)]]
-- [[Workshop — Fermeture — Integration & sortie (30min)]]
+- [[Workshop — Fermeture — Intégration & sortie (30min)]]
 - [[Workshop — Post-Workshop — Intégration du coach]]
 
 ---
@@ -42,7 +42,7 @@ Créer un espace sécurisé et non performatif permettant aux participants de re
 ### Corps du workshop (3 blocs + pause)
 - [[Workshop — Bloc 1 — Réveil corporel (45min)]]
 - [[Workshop — Bloc 2 — Exploration guidée (70min)]]
-- [[Workshop — Pause — Hydration and active silence (15min)]]
+- [[Workshop — Pause — Silence actif & hydratation (15min)]]
 - [[Workshop — Bloc 3 — Intégration tribale (50min)]]
 
 ### Fermeture & Après
@@ -74,9 +74,9 @@ Créer un espace sécurisé et non performatif permettant aux participants de re
 ## Variantes / adaptations
 *(Contextes différents, options)*
 
-- [[Workshop — Adaptation extérieur (parc & forêt)]]
-- [[Workshop — Adaptation intérieur (gym & studio)]]
-- [[Workshop — Groupe > 15]]
+- [[Workshop — Adaptation extérieure (parc & forêt)]]
+- [[Workshop — Adaptation intérieure (gym & studio)]]
+- [[Workshop — Groupe > 15 personnes]]
 
 ---
 

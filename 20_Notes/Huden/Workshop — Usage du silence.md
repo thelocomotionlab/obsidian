@@ -38,5 +38,5 @@ Utiliser le silence comme outil de régulation du système nerveux, de transitio
 ## Liens
 - [[MOC — Natural Movement Workshop (3h)]]
 - [[Workshop — Ouverture — Créer le container]]
-- [[Workshop — Pause — Hydration and active silence (15min)]]
+- [[Workshop — Pause — Silence actif & hydratation (15min)]]
 - [[Workshop — Bloc 1 — Réveil corporel (45min)]]
