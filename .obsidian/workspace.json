@@ -11,12 +11,10 @@
             "id": "62de4a0badca9266",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10_Sources/respiration/Nasal-nitric-oxide-flux-from-the-paranasal-sinuses.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Nasal-nitric-oxide-flux-from-the-paranasal-sinuses"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -180,6 +178,7 @@
   },
   "active": "62de4a0badca9266",
   "lastOpenFiles": [
+    "10_Sources/respiration/Nasal-nitric-oxide-flux-from-the-paranasal-sinuses.pdf",
     "20_Notes/Physique/Potentiel élastique.md",
     "20_Notes/Modèles/Oscillateur harmonique.md",
     "20_Notes/Physique/Impédance mécanique.md",
@@ -208,7 +207,6 @@
     "20_Notes/Modèles/Équation d’onde.md",
     "20_Notes/Physique/Vibration acoustique.md",
     "10_Sources/Rapport - Résonance Biologique (Gemini 2025).md",
-    "10_Sources/Rapport - Impact vibrations (acoustiques + méca) sur physiologie humaine - Gemini (2025).md",
     "00_Inbox/gemini_rest_pace.pdf",
     "Sans titre.canvas",
     "20_Notes/Huden",
