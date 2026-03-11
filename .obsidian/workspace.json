@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "57abaccc90281106",
+        "id": "890a3ae53e9aa06b",
         "type": "tabs",
         "children": [
           {
-            "id": "2d6feb9507c94041",
+            "id": "62de4a0badca9266",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "05_Reference/Citations/Citations philosophiques.md",
-                "mode": "source",
-                "source": false
+                "file": "10_Sources/respiration/Nasal-nitric-oxide-flux-from-the-paranasal-sinuses.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Citations philosophiques"
-            },
-            "group": "0126ffc9ebce606d"
-          }
-        ]
-      },
-      {
-        "id": "3e6e688e96a6e7b4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e0a529d6cdb6dbf3",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "05_Reference/Citations/Citations philosophiques.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.127882566753336,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graphique de Citations philosophiques"
-            },
-            "group": "0126ffc9ebce606d"
+              "icon": "lucide-file-text",
+              "title": "Nasal-nitric-oxide-flux-from-the-paranasal-sinuses"
+            }
           }
         ]
       }
@@ -216,23 +169,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Create new base": false
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2d6feb9507c94041",
+  "active": "62de4a0badca9266",
   "lastOpenFiles": [
+    "20_Notes/Physique/Potentiel élastique.md",
+    "20_Notes/Modèles/Oscillateur harmonique.md",
+    "20_Notes/Physique/Impédance mécanique.md",
+    "20_Notes/Huden/Workshop — Préparation du coach.md",
+    "20_Notes/Huden/Workshop — Logistique.md",
+    "30_MOCs/MOC — Natural Movement Workshop (3h).md",
+    "00_Inbox/Effets du Froid sur le Corps Humain.pdf",
+    "00_Inbox/Déconstruire les _Thérapies Quantiques_.pdf",
+    "00_Inbox/Construction didgeridoo conique PVC détaillé.pdf",
+    "20_Notes/Physiologie/Flux sanguin → cisaillement → NO → vasodilatation.md",
+    "20_Notes/Biophysique/Mécanotransduction.md",
+    "20_Notes/Physique/Interface.md",
+    "20_Notes/Biologie/Cellule.md",
+    "20_Notes/Physique/Dissipation énergétique.md",
+    "20_Notes/Physique/Flux.md",
+    "05_Reference/Citations/Citations philosophiques.md",
     "20_Notes/Huden/Workshop — Bloc 1 — Réveil corporel (45min).md",
     "20_Notes/Huden/Philosophie coaching Huden.md",
-    "30_MOCs/MOC — Natural Movement Workshop (3h).md",
     "20_Notes/Huden/Workshop — Accueil des participants.md",
     "20_Notes/Huden/Workshop — Ouverture — Créer le container.md",
-    "20_Notes/Physiologie/Flux sanguin → cisaillement → NO → vasodilatation.md",
     "20_Notes/Anatomie/Endothélium.md",
     "20_Notes/Anatomie/Flux Sanguin.md",
     "20_Notes/Biologie/Hématocrite.md",
@@ -243,26 +210,12 @@
     "10_Sources/Rapport - Résonance Biologique (Gemini 2025).md",
     "10_Sources/Rapport - Impact vibrations (acoustiques + méca) sur physiologie humaine - Gemini (2025).md",
     "00_Inbox/gemini_rest_pace.pdf",
-    "00_Inbox/Effets du Froid sur le Corps Humain.pdf",
-    "00_Inbox/Déconstruire les _Thérapies Quantiques_.pdf",
-    "20_Notes/Biochimie/Lipolyse.md",
-    "20_Notes/Biochimie/Néoglucogénèse.md",
-    "20_Notes/Physiologie/Vasoconstriction cutanée périphérique.md",
-    "20_Notes/Physiologie/Muscle lisse vasculaire.md",
     "Sans titre.canvas",
-    "20_Notes/Biochimie/Adrénaline.md",
-    "20_Notes/Physiologie/Récepteurs alpha-adrénergique.md",
-    "20_Notes/Biologie/Canaux TRP8.md",
-    "20_Notes/Biochimie/Noradrénaline.md",
-    "20_Notes/Physiologie/Hémodynamique.md",
-    "20_Notes/Physique/Résistance thermique.md",
-    "20_Notes/Physique/Conductance thermique.md",
     "20_Notes/Huden",
     "90_Attachments/pdf/gemini_2025_resonance_biologique.pdf",
     "20_Notes/Biochimie/Acides aminés",
     "20_Notes/Biochimie",
     "20_Notes/Mathématiques",
-    "20_Notes/Chimie",
-    "20_Notes/Vibrations/Sources"
+    "20_Notes/Chimie"
   ]
 }
