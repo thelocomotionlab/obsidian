@@ -11,10 +11,12 @@
             "id": "62de4a0badca9266",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "pdf",
+              "state": {
+                "file": "40_Articles/article_respiration_fonctionnelle/Message-Box.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Message-Box"
             }
           }
         ]
