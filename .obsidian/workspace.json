@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "890a3ae53e9aa06b",
+        "id": "d5ec88e105fc9212",
         "type": "tabs",
         "children": [
           {
-            "id": "62de4a0badca9266",
+            "id": "5388624432165a40",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "40_Articles/article_respiration_fonctionnelle/Message-Box.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Message-Box"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -159,6 +157,15 @@
               "icon": "lucide-list",
               "title": "Plan"
             }
+          },
+          {
+            "id": "4a88df197d7fed44",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
           }
         ]
       }
@@ -175,47 +182,52 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "62de4a0badca9266",
+  "active": "e8e3bc674c242d6d",
   "lastOpenFiles": [
-    "10_Sources/respiration/Nasal-nitric-oxide-flux-from-the-paranasal-sinuses.pdf",
-    "20_Notes/Physique/Potentiel élastique.md",
-    "20_Notes/Modèles/Oscillateur harmonique.md",
-    "20_Notes/Physique/Impédance mécanique.md",
-    "20_Notes/Huden/Workshop — Préparation du coach.md",
-    "20_Notes/Huden/Workshop — Logistique.md",
-    "30_MOCs/MOC — Natural Movement Workshop (3h).md",
+    "00_Inbox/Vibrations Électromagnétiques et Corps Humain.pdf",
+    "00_Inbox/Vertical climbing adaptations in the anthropoid ankle and midfoot.pdf.pdf",
+    "00_Inbox/Respiration fonctionnelle et sportive.pdf",
+    "00_Inbox/Rapport_JANUS.tex",
+    "00_Inbox/Physiologie Musculaire _ Maintien de la Masse..pdf",
+    "00_Inbox/Le Shaking _ Utilité, Fondements et Applications.pdf",
+    "00_Inbox/gemini_rest_pace.pdf",
+    "00_Inbox/Exposition au froid _ science et spécificités..pdf",
     "00_Inbox/Effets du Froid sur le Corps Humain.pdf",
     "00_Inbox/Déconstruire les _Thérapies Quantiques_.pdf",
     "00_Inbox/Construction didgeridoo conique PVC détaillé.pdf",
-    "20_Notes/Physiologie/Flux sanguin → cisaillement → NO → vasodilatation.md",
-    "20_Notes/Biophysique/Mécanotransduction.md",
-    "20_Notes/Physique/Interface.md",
-    "20_Notes/Biologie/Cellule.md",
-    "20_Notes/Physique/Dissipation énergétique.md",
-    "20_Notes/Physique/Flux.md",
-    "05_Reference/Citations/Citations philosophiques.md",
-    "20_Notes/Huden/Workshop — Bloc 1 — Réveil corporel (45min).md",
-    "20_Notes/Huden/Philosophie coaching Huden.md",
-    "20_Notes/Huden/Workshop — Accueil des participants.md",
-    "20_Notes/Huden/Workshop — Ouverture — Créer le container.md",
-    "20_Notes/Anatomie/Endothélium.md",
-    "20_Notes/Anatomie/Flux Sanguin.md",
-    "20_Notes/Biologie/Hématocrite.md",
-    "20_Notes/Mathématiques/Gradient.md",
-    "20_Notes/Mathématiques/Laplacien.md",
-    "20_Notes/Modèles/Équation d’onde.md",
-    "20_Notes/Physique/Vibration acoustique.md",
-    "10_Sources/Rapport - Résonance Biologique (Gemini 2025).md",
-    "00_Inbox/gemini_rest_pace.pdf",
-    "Sans titre.canvas",
-    "20_Notes/Huden",
-    "90_Attachments/pdf/gemini_2025_resonance_biologique.pdf",
-    "20_Notes/Biochimie/Acides aminés",
-    "20_Notes/Biochimie",
-    "20_Notes/Mathématiques",
-    "20_Notes/Chimie"
+    "01_Mode d'emploi.md",
+    "00_Accueil.md",
+    "90_Templates/Template - Source.md",
+    "90_Templates/Template - Production.md",
+    "90_Templates/Template - Note-pont.md",
+    "90_Templates/Template - MOC.md",
+    "90_Templates/Template - Note permanente.md",
+    "01 Mode d'emploi.md",
+    "00 Accueil.md",
+    "90 Templates/Template - Source.md",
+    "90 Templates/Template - Production.md",
+    "90 Templates/Template - Note-pont.md",
+    "90 Templates/Template - Note permanente.md",
+    "90 Templates/Template - MOC.md",
+    "999_archives/40_Articles/article_respiration_fonctionnelle/courbe_hémoglobine.png",
+    "999_archives/20_Notes/Trail/Mes pourquois en trail.md",
+    "999_archives/20_Notes/Thermodynamique/Énergie.md",
+    "999_archives/20_Notes/Thermodynamique/Énergie libre.md",
+    "999_archives/20_Notes/Thermodynamique/Température.md",
+    "999_archives/20_Notes/Thermodynamique/Rhotalpie.md",
+    "999_archives/20_Notes/Thermodynamique/Exergie.md",
+    "999_archives/20_Notes/Thermodynamique/Entropie.md",
+    "999_archives/20_Notes/Thermodynamique/Enthalpie.md",
+    "999_archives/20_Notes/Thermodynamique/Enthalpie libre.md",
+    "999_archives/20_Notes/Thermodynamique/Chaleur.md",
+    "999_archives/20_Notes/Pratiques corporelles/Humming.md",
+    "999_archives/Sans titre.canvas",
+    "archives/Sans titre.canvas",
+    "archives/40_Articles/article_respiration_fonctionnelle/courbe_hémoglobine.png",
+    "Sans titre.canvas"
   ]
 }
