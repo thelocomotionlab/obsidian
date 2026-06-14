@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:05_Reference  -path:00_Inbox -path:99_Templates  ",
+  "search": "-path:99_PJ -path:00_Inbox -path:90_Templates    ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.44169468385383326,
+  "scale": 0.9938130386711249,
   "close": true
 }

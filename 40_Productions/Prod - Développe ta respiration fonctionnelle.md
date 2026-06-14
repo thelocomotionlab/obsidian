@@ -6,7 +6,8 @@ public-cible:
 date: {{date:YYYY-MM-DD}}
 tags: [production]
 ---
-# {{title}}
+# Développe ta respiration fonctionnelle
+
 
 ## 📦 Message Box
 *(Le squelette narratif AVANT d'écrire : pour qui, et pourquoi ça compte. Méthode COMPASS.)*
@@ -26,6 +27,7 @@ tags: [production]
 
 ## Brouillon
 
+[[Draft - Développe ta respiration fonctionnelle]]
 
 ## ✅ Avant publication
 - [ ] Chaque affirmation vérifiée contre sa source primaire

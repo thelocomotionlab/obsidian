@@ -1,1 +1,7 @@
-{}
+{
+  "enabledCssSnippets": [
+    "globals"
+  ],
+  "cssTheme": "",
+  "accentColor": "#176072"
+}

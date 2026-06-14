@@ -1,12 +1,12 @@
 ---
 type: moc
-date-création: {{date:YYYY-MM-DD}}
-tags: [moc]
+date-création: 2026-06-14
+tags:
+  - moc
 ---
-# 🗺️ {{title}}
-
 ## De quoi parle ce thème
 
+Description et analyse de la physiologie respiratoire dans une perspective de restauration d'une respiration en accord avec la physiologie humaine.
 
 ## Notes clés
 *(organise par sous-thèmes ; chaque entrée renvoie à une note atomique de `20_Notes`)*

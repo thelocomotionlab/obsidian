@@ -1,0 +1,19 @@
+/* 1. Pour le mode Édition (Live Preview) */
+.cm-embed-block:has(.image-embed) {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+}
+
+/* 2. Pour le mode Lecture (Reading View) */
+.markdown-rendered .image-embed-image {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.markdown-rendered .internal-embed:has(img) {
+    display: block !important;
+    text-align: center !important;
+}

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ec88e105fc9212",
+        "id": "5c611a3b424aa8ac",
         "type": "tabs",
         "children": [
           {
-            "id": "5388624432165a40",
+            "id": "437fce8d1d192eed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "30_MOC/Respiration fonctionnelle.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Respiration fonctionnelle"
             }
           }
         ]
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20_Notes/Acheminement air ⇄ poumons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de Acheminement air ⇄ poumons"
             }
           },
           {
@@ -164,10 +169,12 @@
             "state": {
               "type": "infranodus-graph-view",
               "state": {},
-              "icon": "infranodus-icon"
+              "icon": "infranodus-icon",
+              "title": "20_Notes/Acheminement air ⇄ poumons.md"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,48 +190,54 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "infranodus-graph-view:InfraNodus Graph View": false
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "zk-prefixer:Créer une nouvelle note unique": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e8e3bc674c242d6d",
+  "active": "437fce8d1d192eed",
   "lastOpenFiles": [
-    "00_Inbox/Vibrations Électromagnétiques et Corps Humain.pdf",
-    "00_Inbox/Vertical climbing adaptations in the anthropoid ankle and midfoot.pdf.pdf",
-    "00_Inbox/Respiration fonctionnelle et sportive.pdf",
-    "00_Inbox/Rapport_JANUS.tex",
-    "00_Inbox/Physiologie Musculaire _ Maintien de la Masse..pdf",
-    "00_Inbox/Le Shaking _ Utilité, Fondements et Applications.pdf",
-    "00_Inbox/gemini_rest_pace.pdf",
-    "00_Inbox/Exposition au froid _ science et spécificités..pdf",
-    "00_Inbox/Effets du Froid sur le Corps Humain.pdf",
-    "00_Inbox/Déconstruire les _Thérapies Quantiques_.pdf",
-    "00_Inbox/Construction didgeridoo conique PVC détaillé.pdf",
-    "01_Mode d'emploi.md",
-    "00_Accueil.md",
+    "L'hémoglobine bascule entre forme R et T selon le pH, ce qui commande la libération d'O₂.md",
+    "20_Notes/Hématose.md",
+    "20_Notes/Conditionnement de l'air à son passage par le nez.md",
+    "20_Notes/Ventilation respiratoire.md",
+    "10_Sources/West 2020 — Respiratory Physiology.md",
+    "10_Sources/Dallam 2018 — Respiration nasale et VO2max.md",
+    "90_Templates/Template - Note permanente.md",
+    "20_Notes/L'hémoglobine bascule entre forme R et T selon le pH, ce qui commande la libération d'O₂.md",
+    "30_MOC/Respiration fonctionnelle.md",
+    "90_Templates/Template - MOC.md",
+    "Hématose.md",
+    "99_PJ/Pasted image 20260614100633.png",
+    "99_PJ/Pasted image 20260614100538.png",
+    "99_PJ/Pasted image 20260614100258.png",
+    "2026-06-14.md",
+    "99_PJ/Pasted image 20260614091757.png",
+    "99_PJ/Construction didgeridoo conique PVC détaillé.pdf",
+    "99_PJ/Effets du Froid sur le Corps Humain.pdf",
+    "99_PJ/Exposition au froid _ science et spécificités..pdf",
+    "99_PJ/gemini_rest_pace.pdf",
+    "99_PJ/Cétose Flexible et Ultra-Endurance _ Stratégies.pdf",
+    "99_PJ/Vibrations Électromagnétiques et Corps Humain.pdf",
+    "99_PJ/Vertical climbing adaptations in the anthropoid ankle and midfoot.pdf.pdf",
+    "99_PJ/Respiration fonctionnelle et sportive.pdf",
+    "99_PJ/Rapport_JANUS.tex",
+    "99_PJ/Physiologie Musculaire _ Maintien de la Masse..pdf",
     "90_Templates/Template - Source.md",
+    "10_Sources/Sans titre.md",
+    "Vault - Accueil.md",
+    "01 Mode d'emploi.md",
+    "Vault - Mode d'emploi.md",
+    "40_Productions/Prod - Développe ta respiration fonctionnelle.md",
+    "40_Productions/Draft - Développe ta respiration fonctionnelle.md",
     "90_Templates/Template - Production.md",
     "90_Templates/Template - Note-pont.md",
-    "90_Templates/Template - MOC.md",
-    "90_Templates/Template - Note permanente.md",
-    "01 Mode d'emploi.md",
-    "00 Accueil.md",
-    "90 Templates/Template - Source.md",
-    "90 Templates/Template - Production.md",
-    "90 Templates/Template - Note-pont.md",
-    "90 Templates/Template - Note permanente.md",
-    "90 Templates/Template - MOC.md",
+    "Coffre-LocomotionLab/90_Templates/T_MOC.md",
+    "Coffre-LocomotionLab/90_Templates/T_Source.md",
+    "Coffre-LocomotionLab/90_Templates/T_Production.md",
+    "Coffre-LocomotionLab/90_Templates/T_Note.md",
+    "Coffre-LocomotionLab/90_Templates/T_Note-pont.md",
     "999_archives/40_Articles/article_respiration_fonctionnelle/courbe_hémoglobine.png",
-    "999_archives/20_Notes/Trail/Mes pourquois en trail.md",
-    "999_archives/20_Notes/Thermodynamique/Énergie.md",
-    "999_archives/20_Notes/Thermodynamique/Énergie libre.md",
-    "999_archives/20_Notes/Thermodynamique/Température.md",
-    "999_archives/20_Notes/Thermodynamique/Rhotalpie.md",
-    "999_archives/20_Notes/Thermodynamique/Exergie.md",
-    "999_archives/20_Notes/Thermodynamique/Entropie.md",
-    "999_archives/20_Notes/Thermodynamique/Enthalpie.md",
-    "999_archives/20_Notes/Thermodynamique/Enthalpie libre.md",
-    "999_archives/20_Notes/Thermodynamique/Chaleur.md",
-    "999_archives/20_Notes/Pratiques corporelles/Humming.md",
     "999_archives/Sans titre.canvas",
     "archives/Sans titre.canvas",
     "archives/40_Articles/article_respiration_fonctionnelle/courbe_hémoglobine.png",
