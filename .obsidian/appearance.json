@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "globals"
+    "globals",
+    "center-images"
   ],
   "cssTheme": "",
   "accentColor": "#176072"

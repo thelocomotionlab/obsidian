@@ -23,6 +23,14 @@
       "template": "90_Templates/Template - Source.md"
     },
     {
+      "folder": "30_MOC",
+      "template": "90_Templates/Template - MOC.md"
+    },
+    {
+      "folder": "40_Productions",
+      "template": "90_Templates/Template - Production.md"
+    },
+    {
       "folder": "",
       "template": ""
     }

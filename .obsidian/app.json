@@ -1,4 +1,7 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "99_PJ"
+  "attachmentFolderPath": "99_PJ",
+  "livePreview": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "20_Notes"
 }

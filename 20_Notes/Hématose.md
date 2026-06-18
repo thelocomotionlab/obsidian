@@ -11,10 +11,10 @@ Lors de son trajet entre l'atmosphère et l'alvéole pulmonaire, l'air s'humidif
 
 Simultanément, l'$O_2$ alvéolaire diffuse vers le capillaire pour se fixer sur l'hémoglobine, qui relâche le $CO_2$ sanguin, lui-même diffusé depuis le capillaire vers l'alvéole pour être ensuite expulsé par expiration.
 
-![[Pasted image 20260614100633.png|360]]
-*Schéma de l'hématose*
+![[schema_hematose.png|Schéma de l'hématose|360]]
+
 ## Liens
-* [[L'hémoglobine bascule entre forme R et T selon le pH, ce qui commande la libération d'O₂]] (le gaz échangé est pris en charge par l'Hb)
+* [[Hémoglobine]] (le gaz échangé est pris en charge par l'Hb)
 *  [[Effet Bohr]] (la libération aux tissus dépend du CO₂/pH)
 * MOCs
 	* [[Respiration fonctionnelle]]
