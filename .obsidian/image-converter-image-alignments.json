@@ -11,6 +11,24 @@
       "width": "",
       "height": "",
       "wrap": false
+    },
+    "7293927bd615e62b867010ebeba18233": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cd6567d99e313897e31b80311acbb9da": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2bb12d8db242507cb98414d58d399037": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
     }
   },
   "99_PJ/schema_hematose.png": {
@@ -27,6 +45,36 @@
       "width": "",
       "height": "",
       "wrap": false
+    },
+    "f9181d22c5975e2d51bcecba127558b4": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e5859ee782b8c691754ca43dfe5e2c78": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "04996d0564bfbc21726f4212b34dfa01": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b87143bd54d2ff0245b152cb62e83df0": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7de0c57d0b3143cfb428cf290a447f99": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
     }
   },
   "20_Notes/Ventilation respiratoire.md": {
@@ -37,6 +85,30 @@
       "wrap": false
     },
     "8bd063ee1bd4589fe20bde78502c05f2": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "317ef7e33922c051e5897e5b131dc245": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "3fdc6f58dc4733e2fc0a33c3398f5caa": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "62f8019e258a2e501a577e382ea47c6d": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "faaf87d2ac6b9e46d8d2b6ca5f3e2382": {
       "position": "center",
       "width": "",
       "height": "",
@@ -68,8 +140,8 @@
     },
     "5063c4dacc75ad90841ae8713a2b4e4a": {
       "position": "center",
-      "width": "515px",
-      "height": "310px",
+      "width": "",
+      "height": "",
       "wrap": false
     },
     "ed8870067000f79148f0070726464395": {
@@ -82,6 +154,48 @@
       "position": "center",
       "width": "537px",
       "height": "339px",
+      "wrap": false
+    },
+    "21f239d1853ae0c682290fbd1b3666ed": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f588eb8b1af44b5f58781e235f0e7e6c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "30_MOC/Respiration fonctionnelle.md": {
+    "e7e8be31083bc72c644a8f546626734c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "73a656129030b25233585a5fde75efae": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "40_Productions/Draft - Développe ta respiration fonctionnelle.md": {
+    "5547809c4be3b2fcb06ef3e8b1cd95ca": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "10_Sources/Berthou 2026 — Mathieu Blanchard, ses expériences en nutrition sportives.md": {
+    "976cb46875c8e49fed428e8af6e4d0a2": {
+      "position": "center",
+      "width": "",
+      "height": "",
       "wrap": false
     }
   }
